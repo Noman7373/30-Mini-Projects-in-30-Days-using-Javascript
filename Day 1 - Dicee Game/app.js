@@ -77,3 +77,6 @@ btn1.addEventListener("click", () => {
     const playerTwo = playerTwoChoice();
     checkWinner(playerOne, playerTwo);
 });
+
+
+let user = "Noman"
